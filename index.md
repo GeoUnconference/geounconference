@@ -1,8 +1,8 @@
 **Navigation**
 
 - **Die GeoUnconference / La GeoUnconference**
-- [Resultate der GeoUnconferences und weiterführende Diskussionen / Résultats des GeoUnconferences et discussion supplémentaire](https://github.com/GeoUnconference/discussions/discussions)
-- [Registrierung für Anlässe / Inscription aux évènements](https://ti.to/geounconference)
+- [Forum](https://github.com/GeoUnconference/discussions/discussions)
+- [Registrierung / Inscription](https://ti.to/geounconference)
 
 <hr>
 
