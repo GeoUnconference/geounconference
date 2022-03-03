@@ -1,14 +1,15 @@
-**Navigation**
-
-- **Die GeoUnconference / La GeoUnconference**
-- [Forum](https://github.com/GeoUnconference/discussions/discussions)
-- [Registrierung / Inscription](https://ti.to/geounconference)
-
-<hr>
-
 # Die GeoUnconference / La GeoUnconference
 
 *[En français ci-dessous](#francais)*
+
+## Nächste Austragung
+Die 3. GeoUnconference findet am 5.5.2022 in Neuenburg statt. Die (Gratis-)Anmeldung erfolgt bald über [Ti.to](https://ti.to/geounconference). Wir informieren über die Eröffnung der Anmeldung und sonstige Neuigkeiten zur GeoUnconference per [Newsletter](http://eepurl.com/ht_KRn) und auf [Twitter](https://www.twitter.com/geounconference).
+
+## Das Forum
+Das [GeoUnconference-Forum](https://github.com/GeoUnconference/discussions/discussions) ist aktiv und kann durch jede und jeden für das Einbringen neuer Ideen und Fragestellungen rund um die NGDI, den Austausch, Diskussionen und die (Weiter)Entwicklung von GeoUnconference-Ideen genutzt werden. Im Forum werden auch zwischen den GeoUnconferences Ideen umgesetzt:
+-	Beispielsweise sammeln wir in einem Thread [alle Komponenten der NGDI und testen Möglichkeiten, diese grafisch darzustellen](https://github.com/GeoUnconference/discussions/discussions/31).
+-	In einem weiteren Thread sammeln wir [Cookbooks und Tutorials zur Nutzung der NGDI](https://github.com/GeoUnconference/discussions/discussions/4). Ein Team von Studierenden der Berner Fachhochschule hat vor kurzem eine [Implementation des Anwendungsfalls «Geokodierung» mit dem Bundesgeodatenportal umgesetzt](https://github.com/GeoUnconference/discussions/discussions/4#discussioncomment-2010293).
+-	In einem dritten Thread diskutieren wir die [gemeinschaftliche Erfassung und Pflege von Geodaten](https://github.com/GeoUnconference/discussions/discussions/10). Die Beteiligten wollen das anhand von Beispielen (zur Diskusssion standen die Gemeindegrenzen und ÖV-Netze) durchspielen. Es gab schon ein Treffen ausserhalb der GeoUnfoncerence, in dem das Projekt geschärft und ein [Mattermost-Channel](https://community.posmo.coop/signup_email?id=t67y3ecuzpy5my4b7qpnnnsi3h) aufgesetzt wurde. Wer hier mitarbeiten möchte, meldet sich am besten bei bei [Roger Fischer](mailto:roger@datamap.io) oder direkt im [Mattermost-Channel](https://community.posmo.coop/signup_email?id=t67y3ecuzpy5my4b7qpnnnsi3h).
 
 ## GeoUnconference: Nutzung von Geodaten der Schweizer Behörden verbessern
 
@@ -46,6 +47,18 @@ Wir informieren über die Anmeldung zu den Unconferences per Newsletter und auf 
 <hr>
 
 *<a name="francais"/>En français:*
+
+[Inscription](https://ti.to/geounconference)
+[Forum](https://github.com/GeoUnconference/discussions/discussions)
+
+## Prochaine événement
+La 3<sup>ième</sup> GeoUnconference aura lieu le 5.5.2022 à Neuchâtel. L'inscription (gratuite) se fera bientôt via [Ti.to](https://ti.to/geounconference). Nous vous informerons de l'ouverture des inscriptions et des autres nouvelles concernant la GeoUnconference par [Newsletter](http://eepurl.com/ht_KRn) et sur [Twitter(https://www.twitter.com/geounconference).
+
+## Das Forum
+Le [forum de la GeoUnconference](https://github.com/GeoUnconference/discussions/discussions) est sont actifs et peut être utilisé par chacun-e pour l'apport de nouvelles idées et questions atour de l'INDG, l'échange, les discussions et le développement (continu) d'idées. Le forum permet également de mettre en œuvre des idées entre les GeoUnconferences :
+- Par exemple, dans un fil, nous [rassemblons tous les éléments de l'INDG et testons les possibilités de les représenter graphiquement](https://github.com/GeoUnconference/discussions/discussions/31).
+- Dans un autre fil, nous rassemblons des [« cookbooks » et des tutoriels sur l'utilisation de l'INDG](https://github.com/GeoUnconference/discussions/discussions/4). Une équipe d'étudiants de la Haute école spécialisée bernoise [a récemment mis en œuvre une implémentation du cas d'utilisation « géocodage » avec le portail fédéral de géodonnées](https://github.com/GeoUnconference/discussions/discussions/4#discussioncomment-2010293).
+- Dans un troisième fil, nous discutons de [la saisie et de la gestion communautaires de géodonnées](https://github.com/GeoUnconference/discussions/discussions/10). Les participants souhaitent mettre cela en pratique à l'aide d'exemples (la discussion a porté sur les limites communales et les réseaux de transports publics). Il y a déjà eu une réunion en dehors de la GeoUnfoncerence, au cours de laquelle le projet a été affiné et un [canal Mattermost](https://community.posmo.coop/signup_email?id=t67y3ecuzpy5my4b7qpnnnsi3h) mis en place. Les personnes qui souhaitent collaborer à ce projet sont priées de s'annoncer auprès de [Roger Fischer](mailto:roger@datamap.io) ou directement dans le [canal Mattermost](https://community.posmo.coop/signup_email?id=t67y3ecuzpy5my4b7qpnnnsi3h).
 
 ## GeoUnconference : Améliorer l'utilisation des géodonnées officielles des autorités suisses
 
