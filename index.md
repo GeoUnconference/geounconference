@@ -5,7 +5,8 @@ Die 3. GeoUnconference findet am 5.5.2022 in Neuenburg statt. Die (Gratis-)Anmel
 
 # Das Forum
 Das [GeoUnconference-Forum](https://github.com/GeoUnconference/discussions/discussions) ist aktiv und kann durch jede und jeden für das Einbringen neuer Ideen und Fragestellungen rund um die NGDI, den Austausch, Diskussionen und die (Weiter)Entwicklung von GeoUnconference-Ideen genutzt werden. 
-![Das GeoUnconference-Forum](https://github.com/GeoUnconference/geounconference/raw/main/assets/Forum.png "Das GeoUnconference-Forum")
+
+[![Das GeoUnconference-Forum](https://github.com/GeoUnconference/geounconference/raw/main/assets/Forum.png "Das GeoUnconference-Forum")](https://github.com/GeoUnconference/discussions/discussions)
 
 Im Forum werden auch zwischen den GeoUnconferences Ideen umgesetzt:
 -	Beispielsweise sammeln wir in einem Thread [alle Komponenten der NGDI und testen Möglichkeiten, diese grafisch darzustellen](https://github.com/GeoUnconference/discussions/discussions/31).
@@ -49,7 +50,8 @@ La 3<sup>ième</sup> GeoUnconference aura lieu le 5.5.2022 à Neuchâtel. L'insc
 
 # Le forum
 Le [forum de la GeoUnconference](https://github.com/GeoUnconference/discussions/discussions) est sont actifs et peut être utilisé par chacun-e pour l'apport de nouvelles idées et questions atour de l'INDG, l'échange, les discussions et le développement (continu) d'idées. 
-![Le forum de la GeoUnconference](https://github.com/GeoUnconference/geounconference/raw/main/assets/Forum.png "Le forum de la GeoUnconference")
+
+[![Le forum de la GeoUnconference](https://github.com/GeoUnconference/geounconference/raw/main/assets/Forum.png "Le forum de la GeoUnconference")](https://github.com/GeoUnconference/discussions/discussions)
 
 Le forum permet également de mettre en œuvre des idées entre les GeoUnconferences :
 - Par exemple, dans un fil, nous [rassemblons tous les éléments de l'INDG et testons les possibilités de les représenter graphiquement](https://github.com/GeoUnconference/discussions/discussions/31).
