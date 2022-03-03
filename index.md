@@ -44,7 +44,7 @@ Das Projekt wird finanziert aus den [Zweckgebundenen NGDI-Mitteln](https://www.g
 # Prochaine événement
 La 3<sup>ième</sup> GeoUnconference aura lieu le 5.5.2022 à Neuchâtel. L'inscription (gratuite) se fera bientôt via [Ti.to](https://ti.to/geounconference). Nous vous informerons de l'ouverture des inscriptions et des autres nouvelles concernant la GeoUnconference par [Newsletter](http://eepurl.com/ht_KRn) et sur [Twitter](https://www.twitter.com/geounconference).
 
-# Das Forum
+# Le forum
 Le [forum de la GeoUnconference](https://github.com/GeoUnconference/discussions/discussions) est sont actifs et peut être utilisé par chacun-e pour l'apport de nouvelles idées et questions atour de l'INDG, l'échange, les discussions et le développement (continu) d'idées. Le forum permet également de mettre en œuvre des idées entre les GeoUnconferences :
 - Par exemple, dans un fil, nous [rassemblons tous les éléments de l'INDG et testons les possibilités de les représenter graphiquement](https://github.com/GeoUnconference/discussions/discussions/31).
 - Dans un autre fil, nous rassemblons des [« cookbooks » et des tutoriels sur l'utilisation de l'INDG](https://github.com/GeoUnconference/discussions/discussions/4). Une équipe d'étudiants de la Haute école spécialisée bernoise [a récemment mis en œuvre une implémentation du cas d'utilisation « géocodage » avec le portail fédéral de géodonnées](https://github.com/GeoUnconference/discussions/discussions/4#discussioncomment-2010293).
