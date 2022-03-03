@@ -10,10 +10,13 @@ a:hover {
   text-decoration: underline;
 }
 
-nav > ul > li > a {
-  color: #7A7A7A;
+nav {
   font-weight: normal;
   font-size: 10px;
+}
+
+nav > ul > li > a {
+  color: #7A7A7A;
 }
 
 nav > ul > li > a:hover {
