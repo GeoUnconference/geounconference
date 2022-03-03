@@ -60,7 +60,7 @@ Lors de la (ainsi qu'avant et après) GeoUnconference, tu peux échanger avec d'
 
 ## Sources d'inspiration pour les thèmes de la GeoUnconference
 
-**Le sujet de la GeoUnconference #1 est : Améliorer l'accès et l'utilisation des géodonnées des autorités suisses.**
+**Le sujet de la GeoUnconference est : Améliorer l'accès et l'utilisation des géodonnées des autorités suisses.**
 
 Des approches possibles peuvent être trouvées dans la [**Stratégie suisse pour la géoinformation**](https://www.geo.admin.ch/fr/geo-admin-ch/mandat-de-prestations/strategie-et-mise-en-%C5%93uvre.html). Les autorités suisses y expliquent comment elles souhaitent interconnecter des géoinformations actuelles et fiables et les rendre facilement accessibles à tous. La stratégie s'articule autour de la vision suivante : « Des géodonnées à la connaissance : des informations géolocalisées et interconnectées pour la Suisse ». Elle vise à atteindre cette vision dans sept champs d'action :
 
