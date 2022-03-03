@@ -37,11 +37,6 @@ Organisiert werden die GeoUnconferences von **Ralph Straumann** und **Anne Wegma
 
 Das Projekt wird finanziert aus den [Zweckgebundenen NGDI-Mitteln](https://www.geo.admin.ch/de/ueber-geo-admin/leistungsauftrag/zweckgebundene-ngdi-mittel.html) und gesteuert durch das [Steuerungsorgan Zweckgebundene NGDI-Mittel](https://www.geo.admin.ch/de/ueber-geo-admin/leistungsauftrag/zweckgebundene-ngdi-mittel.html) mit Vertretenden von [swisstopo KOGIS](https://www.swisstopo.admin.ch/de/swisstopo/organisation/kogis.html) und [KGK](https://kgk-cgc.ch).
 
-Wir informieren über die Anmeldung zu den Unconferences per Newsletter und auf Twitter:
-
-- [Newsletter-Anmeldung](http://eepurl.com/ht_KRn)
-- [GeoUnconference auf Twitter](https://www.twitter.com/geounconference)
-
 **Bei Fragen kontaktiere bitte das GeoUnconference-Team unter <a href="mailto:unconference@ebp.ch">unconference@ebp.ch</a>.**
 
 <hr>
@@ -82,10 +77,5 @@ Des approches possibles peuvent être trouvées dans la [**Stratégie suisse pou
 Les GeoUnconferences sont organisées par **Ralph Straumann** et **Anne Wegmann** d'[EBP](https://www.ebp.ch), avec notre partenaire de projet **Stefan Ziegler**, [géomètre cantonal de Soleure](https://so.ch/verwaltung/bau-und-justizdepartement/amt-fuer-geoinformation/ueber-uns/), et avec **David Oesch** de [swisstopo COSIG](https://www.swisstopo.admin.ch/fr/swisstopo/organisation/cosig.html).
 
 Le projet est financé par les [Moyens dédiés à l’INDG](https://www.geo.admin.ch/fr/geo-admin-ch/mandat-de-prestations/moyens-dedies-indg.html) et piloté par l'[Organe de Pilotage des Moyens dédiés à l’INDG](https://www.geo.admin.ch/fr/geo-admin-ch/mandat-de-prestations/moyens-dedies-indg.html) avec des représentants de [swisstopo COSIG](https://www.swisstopo.admin.ch/fr/swisstopo/organisation/cosig.html) et de la [CGC](https://kgk-cgc.ch/).
-
-Nous informons des dates des unconferences et de l'inscription par une newsletter et sur Twitter :
-
-- [Inscription à la newsletter](http://eepurl.com/ht_KRn)
-- [GeoUnconference sur Twitter](https://www.twitter.com/geounconference)
 
 **Si vous avez des questions, veuillez contacter l'équipe de la GeoUnconference à <a href="mailto:unconference@ebp.ch">unconference@ebp.ch</a>**
