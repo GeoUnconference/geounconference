@@ -5,7 +5,7 @@
 a {
   color: #A61505;
 }
-a:hover  {
+a:hover, nav > ul > a:hover {
   color: #E61B06;
   text-decoration: underline;
 }
