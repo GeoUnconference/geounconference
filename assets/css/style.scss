@@ -12,7 +12,9 @@ a:hover {
 
 nav > ul > li > a:hover {
   color: #E61B06;
-  font-weight: normal;
+}
+nav > ul > li > a {
+  font-weight: normal
 }
 
 h1, h2, h3 {
