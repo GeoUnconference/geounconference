@@ -49,7 +49,7 @@ Wir informieren über die Anmeldung zu den Unconferences per Newsletter und auf 
 *<a name="francais"/>En français:*
 
 ## Prochaine événement
-La 3<sup>ième</sup> GeoUnconference aura lieu le 5.5.2022 à Neuchâtel. L'inscription (gratuite) se fera bientôt via [Ti.to](https://ti.to/geounconference). Nous vous informerons de l'ouverture des inscriptions et des autres nouvelles concernant la GeoUnconference par [Newsletter](http://eepurl.com/ht_KRn) et sur [Twitter(https://www.twitter.com/geounconference).
+La 3<sup>ième</sup> GeoUnconference aura lieu le 5.5.2022 à Neuchâtel. L'inscription (gratuite) se fera bientôt via [Ti.to](https://ti.to/geounconference). Nous vous informerons de l'ouverture des inscriptions et des autres nouvelles concernant la GeoUnconference par [Newsletter](http://eepurl.com/ht_KRn) et sur [Twitter](https://www.twitter.com/geounconference).
 
 ## Das Forum
 Le [forum de la GeoUnconference](https://github.com/GeoUnconference/discussions/discussions) est sont actifs et peut être utilisé par chacun-e pour l'apport de nouvelles idées et questions atour de l'INDG, l'échange, les discussions et le développement (continu) d'idées. Le forum permet également de mettre en œuvre des idées entre les GeoUnconferences :
