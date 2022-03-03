@@ -48,9 +48,6 @@ Wir informieren über die Anmeldung zu den Unconferences per Newsletter und auf 
 
 *<a name="francais"/>En français:*
 
-[Inscription](https://ti.to/geounconference)
-[Forum](https://github.com/GeoUnconference/discussions/discussions)
-
 ## Prochaine événement
 La 3<sup>ième</sup> GeoUnconference aura lieu le 5.5.2022 à Neuchâtel. L'inscription (gratuite) se fera bientôt via [Ti.to](https://ti.to/geounconference). Nous vous informerons de l'ouverture des inscriptions et des autres nouvelles concernant la GeoUnconference par [Newsletter](http://eepurl.com/ht_KRn) et sur [Twitter(https://www.twitter.com/geounconference).
 
