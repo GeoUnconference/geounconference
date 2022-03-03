@@ -20,6 +20,10 @@ body > div.wrapper > nav > ul > li > a:hover {
   color: #E61B06;
 }
 
+body > div.wrapper > section > ul > li::marker {
+  content: "🌍 ";
+}
+
 h1, h2, h3 {
   line-height: 1.3;
 }
