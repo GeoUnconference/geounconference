@@ -7,12 +7,17 @@ a {
 }
 a:hover  {
   color: #E61B06;
+  text-decoration: underline;
 }
 h1, h2, h3 {
   line-height: 1.3;
 }
 h2 {
   padding-top: 20px;
+}
+
+li::marker {
+  font-color: black;
 }
 
 header {
