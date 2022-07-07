@@ -1,7 +1,7 @@
 *[En français ci-dessous](#francais)*
 
 # Nächste Austragung
-Die 3. GeoUnconference findet am 5.5.2022 in Neuenburg statt. Die (Gratis-)Anmeldung erfolgt bald über [Ti.to](https://ti.to/geounconference). Wir informieren über die Eröffnung der Anmeldung und sonstige Neuigkeiten zur GeoUnconference per [Newsletter](http://eepurl.com/ht_KRn) und auf [Twitter](https://www.twitter.com/geounconference).
+Die 4. GeoUnconference findet am 13.10.2022 in Bern statt. Die (Gratis-)Anmeldung erfolgt im August über [Ti.to](https://ti.to/geounconference). Wir informieren über die Eröffnung der Anmeldung und sonstige Neuigkeiten zur GeoUnconference per [Newsletter](http://eepurl.com/ht_KRn) und auf [Twitter](https://www.twitter.com/geounconference).
 
 # Das Forum
 Das [GeoUnconference-Forum](https://github.com/GeoUnconference/discussions/discussions) ist aktiv und kann durch jede und jeden für das Einbringen neuer Ideen und Fragestellungen rund um die NGDI, den Austausch, Diskussionen und die (Weiter)Entwicklung von GeoUnconference-Ideen genutzt werden. 
@@ -46,7 +46,7 @@ Das Projekt wird finanziert aus den [Zweckgebundenen NGDI-Mitteln](https://www.g
 *<a name="francais"/>En français:*
 
 # Prochaine événement
-La 3<sup>ième</sup> GeoUnconference aura lieu le 5.5.2022 à Neuchâtel. L'inscription (gratuite) se fera bientôt via [Ti.to](https://ti.to/geounconference). Nous vous informerons de l'ouverture des inscriptions et des autres nouvelles concernant la GeoUnconference par [Newsletter](http://eepurl.com/ht_KRn) et sur [Twitter](https://www.twitter.com/geounconference).
+La 4<sup>ième</sup> GeoUnconference aura lieu le 13.10.2022 à Berne. L'inscription (gratuite) se fera en août via [Ti.to](https://ti.to/geounconference). Nous vous informerons de l'ouverture des inscriptions et des autres nouvelles concernant la GeoUnconference par [Newsletter](http://eepurl.com/ht_KRn) et sur [Twitter](https://www.twitter.com/geounconference).
 
 # Le forum
 Le [forum de la GeoUnconference](https://github.com/GeoUnconference/discussions/discussions) est sont actifs et peut être utilisé par chacun-e pour l'apport de nouvelles idées et questions atour de l'INDG, l'échange, les discussions et le développement (continu) d'idées. 
