@@ -1,7 +1,7 @@
 *[En français ci-dessous](#francais)*
 
 # Nächste Austragung
-### Die 4. GeoUnconference findet am 13.10.2022 von 09:15 bis 17:00 (anschliessend Apéro) in Bern beim Eidgenössischen Personalamt statt. Die Teilnahme ist kostenlos. [Die Anmeldung ist eröffnet](https://ti.to/geounconference). 
+## Die 4. GeoUnconference findet am 13.10.2022 von 09:15 bis 17:00 (anschliessend Apéro) in Bern beim Eidgenössischen Personalamt statt. Die Teilnahme ist kostenlos. [Die Anmeldung ist eröffnet](https://ti.to/geounconference/4). 
 
 Wir informieren über Neuigkeiten zur GeoUnconference per [Newsletter](http://eepurl.com/ht_KRn) und auf [Twitter](https://www.twitter.com/geounconference).
 
@@ -48,7 +48,10 @@ Das Projekt wird finanziert aus den [Zweckgebundenen NGDI-Mitteln](https://www.g
 *<a name="francais"/>En français:*
 
 # Prochaine événement
-La 4<sup>ième</sup> GeoUnconference aura lieu le 13.10.2022 à Berne. L'inscription (gratuite) se fera en août via [Ti.to](https://ti.to/geounconference). Nous vous informerons de l'ouverture des inscriptions et des autres nouvelles concernant la GeoUnconference par [Newsletter](http://eepurl.com/ht_KRn) et sur [Twitter](https://www.twitter.com/geounconference).
+
+## La 4<sup>ième</sup> GeoUnconference aura lieu le 13.10.2022 de 09:15 jusqu'à 17:00 (suivi d'un apéritif) à Berne chez l'Office fédéral du personnel. La participation est gratuite. [L'inscription est ouverte](https://ti.to/geounconference/4). 
+
+Nous vous informerons des autres nouvelles concernant la GeoUnconference par [Newsletter](http://eepurl.com/ht_KRn) et sur [Twitter](https://www.twitter.com/geounconference).
 
 # Le forum
 Le [forum de la GeoUnconference](https://github.com/GeoUnconference/discussions/discussions) est sont actifs et peut être utilisé par chacun-e pour l'apport de nouvelles idées et questions atour de l'INDG, l'échange, les discussions et le développement (continu) d'idées. 
