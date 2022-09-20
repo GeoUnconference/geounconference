@@ -1,7 +1,9 @@
 *[En français ci-dessous](#francais)*
 
 # Nächste Austragung
-Die 4. GeoUnconference findet am 13.10.2022 in Bern statt. Die (Gratis-)Anmeldung erfolgt im August über [Ti.to](https://ti.to/geounconference). Wir informieren über die Eröffnung der Anmeldung und sonstige Neuigkeiten zur GeoUnconference per [Newsletter](http://eepurl.com/ht_KRn) und auf [Twitter](https://www.twitter.com/geounconference).
+### Die 4. GeoUnconference findet am 13.10.2022 von 09:15 bis 17:00 (anschliessend Apéro) in Bern beim Eidgenössischen Personalamt statt. Die Teilnahme ist kostenlos. [Die Anmeldung ist eröffnet](https://ti.to/geounconference). 
+
+Wir informieren über Neuigkeiten zur GeoUnconference per [Newsletter](http://eepurl.com/ht_KRn) und auf [Twitter](https://www.twitter.com/geounconference).
 
 # Das Forum
 Das [GeoUnconference-Forum](https://github.com/GeoUnconference/discussions/discussions) ist aktiv und kann durch jede und jeden für das Einbringen neuer Ideen und Fragestellungen rund um die NGDI, den Austausch, Diskussionen und die (Weiter)Entwicklung von GeoUnconference-Ideen genutzt werden. 
