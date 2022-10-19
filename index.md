@@ -1,6 +1,6 @@
 *[En français ci-dessous](#francais)*
 
-# GeoUnconference
+# Die GeoUnconference
 
 Die GeoUnconference-Veranstaltungsreihe stand unter Motto **Verbesserung von Zugang und Nutzung von Geodaten der Schweizer Behörden**. Insgesamt haben wir [vier GeoUnconferences ausgetragen](https://ti.to/geounconference):
 
@@ -30,7 +30,7 @@ Vielen Dank an alle, die engagiert daran mitgearbeitet haben, die NGDI zu verbes
 <hr>
 *<a name="francais"/>En français:*
 
-# GeoUnconference
+# La GeoUnconference
 
 La série de manifestations GeoUnconference était placée sous la devise **Amélioration de l'accès et de l'utilisation des géodonnées des autorités suisses**. Au total, nous avons organisé [quatre GeoUnconferences](https://ti.to/geounconference) :
 
@@ -39,7 +39,7 @@ La série de manifestations GeoUnconference était placée sous la devise **Amé
 - 05.05.2022 à Neuchâtel
 - 13.10.2022 à Berne
 
-La GeoUnconference a été organisée par **###**, **###** (jusqu'en 2021) et **###** de [EBP](https://www.ebp.ch), en collaboration avec **###** de [swisstopo COSIG](https://www.swisstopo.admin.ch/fr/swisstopo/organisation/cosig.html) et **###**, [chef de l'office de géoinformation et géomètre cantonal du canton de Soleure](https://so.ch/verwaltung/bau-und-justizdepartement/amt-fuer-geoinformation/ueber-uns). La GeoUnconference a été financée par les [moyens dédiés à l'INDG](https://www.geo.admin.ch/fr/geo-admin-ch/mandat-de-prestations/moyens-dedies-indg.html).
+La GeoUnconference a été organisée par **Ralph Straumann**, **Anne Wegmann** (jusqu'en 2021) et **Thomas Felder** d'[EBP](https://www.ebp.ch), en collaboration avec **David Oesch** de [swisstopo COSIG](https://www.swisstopo.admin.ch/fr/swisstopo/organisation/cosig.html) et **Stefan Ziegler**, [chef de l'office de géoinformation et géomètre cantonal du canton de Soleure](https://so.ch/verwaltung/bau-und-justizdepartement/amt-fuer-geoinformation/ueber-uns). La GeoUnconference a été financée par les [moyens dédiés à l'INDG](https://www.geo.admin.ch/fr/geo-admin-ch/mandat-de-prestations/moyens-dedies-indg.html).
 
 Pendant et entre les rencontres, la communauté de la GeoUnconference a discuté d'une vingtaine de thèmes visant à améliorer l'accessibilité et l'utilisabilité des géodonnées officielles suisses et a présenté des solutions possibles. [Les résultats peuvent être consultés sur le forum de la GeoUnconference] (https://github.com/GeoUnconference/discussions/discussions). Les résultats peuvent servir de base à la formulation de propositions de projets à l'attention des [moyens dédiés à l'INDG](https://www.geo.admin.ch/fr/geo-admin-ch/mandat-de-prestations/moyens-dedies-indg.html). Si tu prévois de faire une telle demande, merci d'en informer le fil de discussion correspondant dans le [forum](https://github.com/GeoUnconference/discussions/discussions).
 
